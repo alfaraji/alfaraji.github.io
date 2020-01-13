@@ -9,7 +9,7 @@ img{
   position: relative;
   text-align: center;
   top: 250%;
-  color: #ff6923;
+  color: #f85f18;
 }
 .Home p{
   position: relative;
@@ -76,7 +76,7 @@ ul li:hover a{
 }
 label #btn,label #cancel{
   position: fixed;
-  background: #ff6923;
+  background: #f85f18;
   border-radius: 5px;
   cursor: pointer;
 }
@@ -146,10 +146,10 @@ section{
   margin-left: 20px;
 }
 .timeline li h4 {
-  background-color: #ff6923;
+  background-color: #f85f18;
   padding: 5px 0 5px 20px;
   color: #fff;
-  font-size: 20px
+  font-size: 15px
   
 }
 .timeline li h4 span{
@@ -193,7 +193,7 @@ section{
 }
 .progress-bar{
   border-radius: 9px;
-  background: #ff6923 !important;
+  background: #f85f18 !important;
 }
 .code{
   height: 200px;
@@ -210,7 +210,7 @@ section{
   padding-bottom: 30px;
   padding-left: 5px;
   margin-right: 15px;
-  color: #ff6923;
+  color: #f85f18;
 }
 .About p{
   color: #000000;
@@ -237,7 +237,7 @@ div .form-control {
 
 input[type="submit"]{
   width: auto;
-  background: #ff6923;
+  background: #f85f18;
   color: white;
   padding: 0px 15px;
   cursor: pointer;
@@ -287,7 +287,7 @@ body > section:nth-child(8) {
   position: absolute;
   width: 120%;
   height: 120%;
-  background: #ff6923;
+  background: #f85f18;
   transform: rotate(45deg);
   left: -110%;
   top: 90%;
