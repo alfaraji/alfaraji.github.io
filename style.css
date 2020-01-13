@@ -5,6 +5,7 @@ img{
   border-radius:3px ;
 }
 .Home{
+  padding-bottom:20px; 
   position: relative;
   text-align: center;
   top: 250%;
@@ -183,16 +184,6 @@ section{
   margin-left: 0px;
   margin-right: 0px;
 }
-.no-gutters {
-  margin-right: 0;
-  margin-left: 0;
-
-  [class*="col-"] {
-    padding-right: 0;
-    padding-left: 0;
-  }
-}
-
 
 .skills-bar p{
   margin-bottom: 4px;
