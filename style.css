@@ -147,13 +147,12 @@ section{
 .timeline li h4 {
   background-color: #ff6923;
   padding: 5px 0 5px 20px;
-  color: rgb(255, 255, 255);
+  color: white;
   font-size: 15px
   
 }
 .timeline li h4 span{
   font-weight: bold;
-  color: rgb(0, 0, 0);
 }
 
 .timeline li::before{
@@ -286,7 +285,7 @@ body > section:nth-child(8) {
   position: absolute;
   width: 120%;
   height: 120%;
-  background: #ff6923;
+  background: #f86927;
   transform: rotate(45deg);
   left: -110%;
   top: 90%;
