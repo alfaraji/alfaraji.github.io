@@ -186,14 +186,14 @@ section{
   margin-bottom: 4px;
 }
 .progress{
-  border-radius: 5px;
+  border-radius: 9px;
   color: #000;
 
 }
 .progress-bar{
   border-radius: 9px;
-  background: #ff6923 !important;
   color: #000;
+
 }
 .code{
   top: 15%;
