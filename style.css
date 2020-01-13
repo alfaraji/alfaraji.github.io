@@ -192,6 +192,7 @@ section{
 .progress-bar{
   border-radius: 9px;
   background: #ff6923 !important;
+  color: #000000;
 }
 .code{
   top: 15%;
