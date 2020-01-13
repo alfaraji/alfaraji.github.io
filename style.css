@@ -150,10 +150,9 @@ section{
    
 }
 .timeline li h4 span{
-  background-color: #ff6923;
   font-size: 20px;
   font-weight: bold;
-  color: rgb(255, 255, 255);
+  color: #ff6923;
 }
 
 .timeline li::before{
