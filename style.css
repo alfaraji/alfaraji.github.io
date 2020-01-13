@@ -147,12 +147,13 @@ section{
 .timeline li h4 {
   background-color: #ff6923;
   padding: 5px 0 5px 20px;
-  font-size: 15px
+  font-size: 15px;
+  color: white;
   
 }
 .timeline li h4 span{
   font-weight: bold;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 .timeline li::before{
@@ -182,16 +183,6 @@ section{
   margin-left: 0px;
   margin-right: 0px;
 }
-.no-gutters {
-  margin-right: 0;
-  margin-left: 0;
-
-  [class*="col-"] {
-    padding-right: 0;
-    padding-left: 0;
-  }
-}
-
 
 .skills-bar p{
   margin-bottom: 4px;
